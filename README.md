@@ -1,2 +1,2 @@
 # my-first-project-ygq
-my-first-project-for-study
+# About my first project on GitHub。
